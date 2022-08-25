@@ -32,8 +32,8 @@ Variety of small to midsize projects to practice C#
 ## Design
 ## Run Locally
  ### Practice
-  In C#->Topic Folder-> Program.cs
-  dotnet.run
+    In C#->Topic Folder-> Program.cs
+    dotnet.run
   
  ### Applications
 ## Tech Stack
